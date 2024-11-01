@@ -1,0 +1,92 @@
+#wp-archeology input.text600{
+  width: 600px;
+  }
+  
+#wp-archeology input.text400{
+  width: 400px;
+  }
+  
+#wp-archeology input.text200{
+  width: 200px;
+  }
+
+ #wp-archeology input.text100{
+  width: 100px;
+  }
+  
+#wp-archeology textarea{
+  width: 400px;
+  height: 120px;
+  }
+  
+  
+  
+div.red{
+  background-color:#ffebe8;
+  border-color:#c00;
+  
+  border-width: 1px;
+  border-style: solid;
+  padding: 0 .6em;
+  margin: 4px 150px 4px 4px;
+  -moz-border-radius: 3px;
+  -khtml-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  } 
+
+div.green{
+  background-color:#D0FFA0;
+  border-color:#009000;
+  
+  border-width: 1px;
+  border-style: solid;
+  padding: 0 .6em;
+  margin: 4px 150px 4px 4px;
+  -moz-border-radius: 3px;
+  -khtml-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  }  
+  
+div.blue{
+  background-color:#B0D0FF;
+  border-color:#3300CC;
+  
+  border-width: 1px;
+  border-style: solid;
+  padding: 0 .6em;
+  margin: 4px 150px 4px 4px;
+  -moz-border-radius: 3px;
+  -khtml-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  } 
+  
+div.yellow{
+  background-color:#FFF0D0;
+  border-color:#FFCC33;
+
+  border-width: 1px;
+  border-style: solid;
+  padding: 0 .6em;
+  margin: 4px 150px 4px 4px;
+  -moz-border-radius: 3px;
+  -khtml-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  }  
+
+#subpages_table{
+  border: 1px solid black;
+  margin-left: 300px;
+  }
+  
+div.checkbox{
+  padding: 5px;
+  border: 1px solid gray;
+  -moz-border-radius: 5px;
+  -khtml-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  }

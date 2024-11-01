@@ -1,0 +1,395 @@
+# Copyright (C) 2010 WP Custom Pages
+# This file is distributed under the same license as the WP Custom Pages package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Custom Pages 0.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-custom-pages\n"
+"POT-Creation-Date: 2011-03-30 08:27:31+00:00\n"
+"PO-Revision-Date: 2011-03-30 12:06+0100\n"
+"Last-Translator: stano <stancko@gmail.com>\n"
+"Language-Team: Stanislav Gunčaga <stanislav.guncaga@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Slovak\n"
+"X-Poedit-Country: SLOVAKIA\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: wp-article.php:6
+msgid "Please, select group."
+msgstr "Vyberte skupino prosím."
+
+#: wp-article.php:21
+msgid "Title is not filled."
+msgstr "Nadpis nieje zadaný."
+
+#: wp-article.php:25
+#: wp-generate.php:7
+msgid "Content"
+msgstr "Obsah"
+
+#: wp-article.php:143
+#: wp-article.php:147
+msgid "Article"
+msgstr "Článok"
+
+#: wp-article.php:143
+msgid "was not created. Try refresh site."
+msgstr "nebol vytvorený. Skúste obnoviť stránku (F5)."
+
+#: wp-article.php:147
+msgid "was added successfully. You can add another."
+msgstr "bol pridaný úspešne. Môžete pridať ďalší."
+
+#: wp-subpages.php:33
+msgid "(no title)"
+msgstr "(bez nadpisu)"
+
+#: wp-subpages.php:264
+msgid "In this category"
+msgstr "V tejto kategórií"
+
+#: wp-generate.php:139
+msgid "Post"
+msgstr "Článok"
+
+#: wp-generate.php:139
+msgid "was saved succesfully"
+msgstr "bol uložený úspešne."
+
+#: wp-generate.php:151
+msgid "Page"
+msgstr "Stránka"
+
+#: wp-generate.php:151
+msgid "was saved as html"
+msgstr "bola uložená ako html."
+
+#: wp-generate.php:151
+msgid "Download"
+msgstr "Download"
+
+#: wp-generate.php:193
+msgid "Generate one page from all subpages"
+msgstr "Generovanie jedného článku zo všetkých podstránok."
+
+#: wp-generate.php:197
+msgid "Select page"
+msgstr "Vyberte článok"
+
+#: wp-generate.php:200
+msgid "Save as post"
+msgstr "Uložiť ako článok"
+
+#: wp-generate.php:204
+msgid "Save as html"
+msgstr "Uložiť ako html"
+
+#: wp-generate.php:208
+#: wp-custom-pages.php:89
+msgid "Generate"
+msgstr "Vygeneruj článok"
+
+#: wp-custom-pages.php:31
+msgid " is required for plugin <b>WP Custom Pages</b>."
+msgstr "je povinný pre plugin <b>WP Custom Pages</b>."
+
+#: wp-custom-pages.php:86
+msgid "Articles"
+msgstr "Články"
+
+#: wp-custom-pages.php:87
+msgid "Groups"
+msgstr "Skupiny"
+
+#: wp-custom-pages.php:88
+#: wp-settings.php:42
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: wp-settings.php:49
+msgid "Styles"
+msgstr "Štýly"
+
+#: wp-settings.php:52
+msgid "Set style"
+msgstr "Nastav štýl"
+
+#: wp-settings.php:54
+msgid "Dynamic - when you change settings, style change for all pages. Static - style change only for new generated pages."
+msgstr ""
+
+#: wp-settings.php:55
+msgid "Dynamic"
+msgstr "Dynamické"
+
+#: wp-settings.php:56
+msgid "Static"
+msgstr "Statické"
+
+#: wp-settings.php:61
+#: theme/wp-groups-theme.php:34
+#: theme/wp-groups-theme.php:68
+#: theme/wp-groups-theme.php:107
+msgid "Text"
+msgstr "Text"
+
+#: wp-settings.php:65
+#: theme/wp-groups-theme.php:35
+#: theme/wp-groups-theme.php:69
+#: theme/wp-groups-theme.php:108
+msgid "Textarea"
+msgstr "Textarea"
+
+#: wp-settings.php:69
+#: wp-functions.php:31
+#: theme/wp-groups-theme.php:36
+#: theme/wp-groups-theme.php:70
+#: theme/wp-groups-theme.php:109
+msgid "Select"
+msgstr "Vyber"
+
+#: wp-settings.php:73
+#: theme/wp-groups-theme.php:37
+#: theme/wp-groups-theme.php:71
+#: theme/wp-groups-theme.php:110
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: wp-settings.php:77
+#: theme/wp-groups-theme.php:38
+#: theme/wp-groups-theme.php:72
+msgid "Picture"
+msgstr "Obrázok"
+
+#: wp-settings.php:85
+msgid "Plugin name"
+msgstr "Názov pluginu"
+
+#: wp-settings.php:94
+msgid "Defaults"
+msgstr "Defaulté hodnoty"
+
+#: wp-settings.php:97
+msgid "Default visibility"
+msgstr "Defaultá viditeľosť"
+
+#: wp-settings.php:101
+#: wp-settings.php:112
+#: theme/wp-article-theme.php:60
+#: theme/wp-article-theme.php:71
+msgid "publish"
+msgstr "verejné"
+
+#: wp-settings.php:102
+#: wp-settings.php:113
+#: theme/wp-article-theme.php:61
+#: theme/wp-article-theme.php:72
+msgid "private"
+msgstr "privátne"
+
+#: wp-settings.php:103
+#: wp-settings.php:114
+#: theme/wp-article-theme.php:62
+#: theme/wp-article-theme.php:73
+msgid "password"
+msgstr "heslo"
+
+#: wp-settings.php:108
+msgid "Default status"
+msgstr "Defaultny status"
+
+#: wp-settings.php:119
+msgid "Default password"
+msgstr "Defaultne heslo"
+
+#: wp-settings.php:123
+msgid "Display comments"
+msgstr "Zobrazovanie komentárov"
+
+#: wp-settings.php:127
+#: theme/wp-article-theme.php:86
+msgid "open"
+msgstr "Povolené"
+
+#: wp-settings.php:128
+#: theme/wp-article-theme.php:87
+msgid "close"
+msgstr "Nepovolené"
+
+#: wp-settings.php:137
+#: theme/wp-article-theme.php:45
+#: theme/wp-groups-theme.php:118
+msgid "Save"
+msgstr "Ulož"
+
+#: wp-groups.php:20
+msgid "Name is not filled."
+msgstr "Meno nieje zadané."
+
+#: wp-groups.php:27
+msgid "Name have to be unique. Group "
+msgstr "Meno musí byť unikátne. Skupina"
+
+#: wp-groups.php:27
+msgid " exists. Use another."
+msgstr "už existuje. Použite iné meno."
+
+#: wp-groups.php:41
+msgid "Yes and No values are required."
+msgstr "Obe hodnoty sú pocinné."
+
+#: wp-groups.php:50
+msgid "Type is not selected."
+msgstr "Vyberte typ riadku."
+
+#: wp-groups.php:58
+msgid "Can not select the same row twise."
+msgstr "Nemôžete vybrať ten istý riadok dva krát."
+
+#: wp-groups.php:93
+msgid "Group"
+msgstr "Skupina"
+
+#: wp-groups.php:93
+msgid "was created."
+msgstr "bola vytvorená."
+
+#: wp-functions.php:50
+msgid "Add new row"
+msgstr "Pridanie nového riadku"
+
+#: wp-functions.php:86
+msgid "No group is created."
+msgstr "Najskôr treba vytvoriť skupinu článkov."
+
+#: wp-functions.php:92
+msgid "Select group"
+msgstr "Vyberte skupinu"
+
+#: wp-functions.php:125
+#: theme/wp-groups-theme.php:31
+msgid "Title"
+msgstr "Nadpis"
+
+#: wp-functions.php:127
+msgid "Parent"
+msgstr "Rodič"
+
+#: wp-functions.php:128
+msgid "None"
+msgstr "Žiadna"
+
+#: wp-functions.php:172
+msgid "Select gallery"
+msgstr "Vyberte galériu"
+
+#: wp-functions.php:176
+msgid "Select picture"
+msgstr "Vyberte obrázok"
+
+#: wp-functions.php:325
+#, fuzzy
+msgid "Pugin"
+msgstr "Plugin"
+
+#: theme/wp-article-theme.php:3
+msgid "Add New Article"
+msgstr "Pridanie nového článku"
+
+#: theme/wp-article-theme.php:25
+msgid "Open"
+msgstr "Zobraz"
+
+#: theme/wp-article-theme.php:37
+#: theme/wp-groups-theme.php:102
+msgid "Custom text"
+msgstr "Vlastný text"
+
+#: theme/wp-article-theme.php:56
+msgid "Visibility"
+msgstr "Viditelnosť"
+
+#: theme/wp-article-theme.php:67
+msgid "Status"
+msgstr "Status"
+
+#: theme/wp-article-theme.php:78
+msgid "Password"
+msgstr "Heslo"
+
+#: theme/wp-article-theme.php:82
+msgid "Comments"
+msgstr "Komentáre"
+
+#: theme/wp-groups-theme.php:3
+msgid "Add New Group"
+msgstr "Vytvorenie novej skupiny"
+
+#: theme/wp-groups-theme.php:13
+#: theme/wp-groups-theme.php:25
+msgid "Name"
+msgstr "Meno"
+
+#: theme/wp-groups-theme.php:15
+msgid "Add row"
+msgstr "Nový riadok"
+
+#: theme/wp-groups-theme.php:24
+msgid "Used befor"
+msgstr "Použité predtým"
+
+#: theme/wp-groups-theme.php:26
+msgid "Type"
+msgstr "Typ"
+
+#: theme/wp-groups-theme.php:30
+#: theme/wp-groups-theme.php:101
+msgid "Required row"
+msgstr "Povinný riadok"
+
+#: theme/wp-groups-theme.php:39
+#: theme/wp-groups-theme.php:67
+#: theme/wp-groups-theme.php:111
+msgid "Select type"
+msgstr "Vyberte typ"
+
+#: theme/wp-groups-theme.php:85
+msgid "Checkbox Yes value"
+msgstr "Checkbox Yes value"
+
+#: theme/wp-groups-theme.php:89
+msgid "Checkbox No value"
+msgstr "Checkbox No value"
+
+#: theme/wp-groups-theme.php:106
+msgid "TinyMCE"
+msgstr "TinyMCE"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Custom Pages"
+msgstr "WP Custom Pages"
+
+#. Description of the plugin/theme
+msgid "Plugin for pages with some default structure with custom taxonomies. Page with subpages transform to one page with contetn."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Stanislav Gunčaga"
+msgstr "Stanislav Gunčaga"
+
+#. Author URI of the plugin/theme
+msgid "http:www.artificium.sk"
+msgstr "http://www.artificium.sk"
+
+#~ msgid "Generated article"
+#~ msgstr "Generovaný článok"
+
+#~ msgid "was created. You can download as"
+#~ msgstr "bol vytvorený. Môžete si ho uložiť ako"
+
+#~ msgid "html here"
+#~ msgstr "html"
+
+#~ msgid "Or preview"
+#~ msgstr "Alebo prezrieť"
